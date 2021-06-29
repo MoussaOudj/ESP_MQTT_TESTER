@@ -4,8 +4,8 @@
 #include <PubSubClient.h>  
 
 //WiFi Connection configuration
-char ssid[] = "freeboxoudj";     //  le nom du reseau WIFI
-char password[] = "868C0D6EA0";  // le mot de passe WIFI
+char ssid[] = "";     //  le nom du reseau WIFI
+char password[] = "";  // le mot de passe WIFI
 //mqtt server
 char mqtt_server[] = "test.mosquitto.org";  //adresse IP serveur (mosquitto publique)
 #define MQTT_USER "" 
