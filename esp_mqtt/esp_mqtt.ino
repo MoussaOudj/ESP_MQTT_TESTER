@@ -3,7 +3,8 @@
 #include <WiFiUdp.h>
 #include <PubSubClient.h>  
 
-//test squash
+//supr + added
+//added added
 //WiFi Connection configuration
 char ssid[] = "";     //  le nom du reseau WIFI
 char password[] = "";  // le mot de passe WIFI
